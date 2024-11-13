@@ -1,0 +1,47 @@
+version: "3.9" 
+services:
+  nginx:
+    container_name: gorental-client
+    depends_on:
+      - backend
+    restart: always
+    image: syshero/gorental-client:1.0.0
+    ports:
+      - 80:80
+    environment:
+      - REACT_APP_GRAPHQL_WS_URI=ws://backend:4000/graphql
+      - REACT_APP_GRAPHQL_URI=http://backend:4000/graphql
+    networks:
+      - gorental-network
+
+  backend:
+    depends_on:
+      - mongo
+    restart: unless-stopped
+    container_name: gorental-backend
+    image: syshero/gorental-server:1.0.0
+    environment:
+      - MONGO_URI_LOCAL=mongodb://mongo:27017/go-rental
+      - MONGO_URI=mongodb://mongo:27017/go-rental
+      - FRONTEND_URL=http://host.docker.internal:80
+    ports:
+      - 4000:4000
+    networks:
+      - gorental-network
+
+  mongo:
+    image: mongo:8.0.3
+    container_name: mongodb
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongodb:/data/db
+    networks:
+      - gorental-network
+      
+volumes:
+  mongodb: 
+
+networks:
+  gorental-network:
+    driver: bridge

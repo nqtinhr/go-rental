@@ -1,0 +1,589 @@
+[{
+  "_id": {
+    "$oid": "673466555c7618b099cd9437"
+  },
+  "name": "Timothy Smith-Beer",
+  "email": "Savion_Gottlieb@yahoo.com",
+  "password": "$2a$10$G38UlKzOWGBDvfHQ8wu5G.fh6VLvFtF7vpA.cjRr4WG.1M9SGGlWm",
+  "phoneNo": "297-304-5620 x50965",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.073Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd9439"
+  },
+  "name": "Dallas Hartmann",
+  "email": "Astrid_OKeefe83@gmail.com",
+  "password": "$2a$10$vJhUTXPqOi9fcxYiwwxL1e1DHNJSWiRE6C87yHMskFMkIlo7PXbYq",
+  "phoneNo": "(683) 348-7531 x6303",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd943b"
+  },
+  "name": "Lester Koss-King",
+  "email": "Helen_Deckow@gmail.com",
+  "password": "$2a$10$SI/6TUItU5TyoVqwY6IzsuNDIoz/BRVGIRAomginAqfubYghvqoTu",
+  "phoneNo": "558.547.0915",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd943d"
+  },
+  "name": "Marion Abshire",
+  "email": "Moses1@yahoo.com",
+  "password": "$2a$10$F6mgqoI2myF1NLKjkhqbbeR6uiccPmWn3r.DttRpp8DPXNGY38qiO",
+  "phoneNo": "1-502-401-0343 x5320",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd943f"
+  },
+  "name": "Ms. Stacey Corwin",
+  "email": "Lelah.Runolfsson@hotmail.com",
+  "password": "$2a$10$7vQcXKPDinKRsj6bIntl1uTDGhOjM2v4D.UGvk0dMJD9HYpvswLUK",
+  "phoneNo": "999.493.8063 x4880",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.463Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd9441"
+  },
+  "name": "Maggie Corkery",
+  "email": "Kellen19@gmail.com",
+  "password": "$2a$10$KImAKMzPEYT79rJEWLtfN.GiC0SaJ9hBiG19d7wsTHhi7yK18CZ76",
+  "phoneNo": "225.896.8260 x932",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd9443"
+  },
+  "name": "Kathy O'Conner",
+  "email": "Barry.Kirlin@hotmail.com",
+  "password": "$2a$10$WFR28pyzjP10QZFODrZEuOXeEqNzgv62U/5eY0B754.N.1LoklMg.",
+  "phoneNo": "1-353-614-2646 x859",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd9445"
+  },
+  "name": "Nadine Stamm",
+  "email": "Leone.Lind@yahoo.com",
+  "password": "$2a$10$zlMyychNOMXF5mM9fJf97O56ingD2Ye5wy0icigCK2X7fGC54kNwq",
+  "phoneNo": "550-561-2813",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd9447"
+  },
+  "name": "Dr. Martin Brekke",
+  "email": "Einar36@gmail.com",
+  "password": "$2a$10$zm8rxROM1YnhaR1v042AOOOdhAZeDwRMYILMCOt6ERHu25Kk7Y5K6",
+  "phoneNo": "1-879-205-6085 x54619",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466555c7618b099cd9449"
+  },
+  "name": "Ken Satterfield",
+  "email": "Maximillia83@gmail.com",
+  "password": "$2a$10$XV87omd6x7Yq3acLcX38e.OJoEec4VX7QSIS.uzMbAPO3nSO15iP6",
+  "phoneNo": "(228) 417-6340 x5667",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:57.968Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:57.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466565c7618b099cd944b"
+  },
+  "name": "Christy Rutherford-Romaguera",
+  "email": "Bailey_Yost@yahoo.com",
+  "password": "$2a$10$fO/2AdyrZWY3LDZBw4TYbeSALskwGJYeesrC.JFGqhFuzYmr0FhcG",
+  "phoneNo": "(687) 921-3684 x279",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:58.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:58.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466565c7618b099cd944d"
+  },
+  "name": "Isabel Johnson",
+  "email": "Cathrine55@gmail.com",
+  "password": "$2a$10$2Z.s6xIH6tsqFaZMXZYCjOebVWusHBONwZ6yQQ4Dew44L2lMrJGpS",
+  "phoneNo": "(433) 265-9342",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:58.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:58.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466565c7618b099cd944f"
+  },
+  "name": "Troy Rowe",
+  "email": "Ebony51@gmail.com",
+  "password": "$2a$10$WsG/EL3uvJUsLVj2z3t9f.7qMoh1.gJP8JOOTt/wb/h7IfIoqyaHK",
+  "phoneNo": "(420) 649-4774",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:58.503Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:58.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466565c7618b099cd9451"
+  },
+  "name": "Scott Swift",
+  "email": "Mckenna_Collins@gmail.com",
+  "password": "$2a$10$A7nvFV1GOBWZlat7sYwTlut1OylVbEcFgGcBNX4/WbXPoPaRX/NiK",
+  "phoneNo": "366-610-9752 x84668",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:58.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:58.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466565c7618b099cd9453"
+  },
+  "name": "Darren Lehner",
+  "email": "Kavon62@yahoo.com",
+  "password": "$2a$10$qz/H1gHgJ3CCWtiQvI2aSuQJeDdcNlIQb/8vClSnJcyr34MJELmwi",
+  "phoneNo": "649.279.7341 x2048",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:58.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:58.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466575c7618b099cd9455"
+  },
+  "name": "Cameron Murray",
+  "email": "Ena.Tremblay49@gmail.com",
+  "password": "$2a$10$l9CdvXiHWgXFKA/tSMv8yeKJCQsH5SSUe1ZBF6uqFAqGxuwQmCNQe",
+  "phoneNo": "389.400.6633 x952",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:59.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:59.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466575c7618b099cd9457"
+  },
+  "name": "Allison Lynch",
+  "email": "Dagmar.Kassulke0@gmail.com",
+  "password": "$2a$10$2OIDboczi0EIuWfRWeVWlef.7JQ1gFE/OqJX7vqR4fafc9ZkiF4XS",
+  "phoneNo": "407.708.4688 x4603",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:59.229Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:59.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466575c7618b099cd9459"
+  },
+  "name": "Dr. Ed Kunze",
+  "email": "Mitchell.McLaughlin44@gmail.com",
+  "password": "$2a$10$g23i.XpW5Is3w/oqe0y8nOvHEv92EbTGkBedSDOq0G1emIr/t7tZm",
+  "phoneNo": "276.798.2139 x8571",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:59.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:59.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466575c7618b099cd945b"
+  },
+  "name": "Veronica Sipes I",
+  "email": "Dorris87@yahoo.com",
+  "password": "$2a$10$dH.V5ojxiU99Znci5aw2s.VgLu63TsSiqxax0CPbbsXfbU4hL0jRO",
+  "phoneNo": "1-322-397-9944 x149",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:59.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:59.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466575c7618b099cd945d"
+  },
+  "name": "Lana Waelchi",
+  "email": "Caden_Lindgren4@hotmail.com",
+  "password": "$2a$10$Q4eP9KxWvs.UVIoZj0WaTOf5Xw7XApWl03mR2M/Amqc/McYWIBh6q",
+  "phoneNo": "339-932-8009 x004",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:59.735Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:59.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466575c7618b099cd945f"
+  },
+  "name": "Dr. Andrew Bartell",
+  "email": "Deion65@gmail.com",
+  "password": "$2a$10$yJ602y6R8U7n/ksBg6.P2eywqOZqWYnkv0dqTcTt2nwJbnMGPwB8u",
+  "phoneNo": "(451) 972-6253 x557",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:41:59.932Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:41:59.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466585c7618b099cd9461"
+  },
+  "name": "Estelle Willms",
+  "email": "Otto51@yahoo.com",
+  "password": "$2a$10$q6zHfmvXRDCqCGQslkYvXecDYSy8XyCnHY2nDECHvgxrlPTK6cun.",
+  "phoneNo": "313-795-3123",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:00.122Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:00.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466585c7618b099cd9463"
+  },
+  "name": "Cecil Heller",
+  "email": "Mckenzie.Ryan40@gmail.com",
+  "password": "$2a$10$ZxQhC7OHBJny65oHGlAKYuy7kjMi1pE22tRns84NjXoL8x8Z7lQ8a",
+  "phoneNo": "266-487-0429 x5776",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:00.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:00.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466585c7618b099cd9465"
+  },
+  "name": "Dr. Everett Murphy",
+  "email": "Olen_Yost88@yahoo.com",
+  "password": "$2a$10$Oxtjfwg2xyuWYMm6wgeHTep5vBgyD8sRQ3Nv9nQHNwViHcvEFqwP2",
+  "phoneNo": "(383) 942-9182 x958",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:00.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:00.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466585c7618b099cd9467"
+  },
+  "name": "Lucas Franey",
+  "email": "Addie73@yahoo.com",
+  "password": "$2a$10$NCtI0E52viQOwOfLkfDL1e4buRW1RqVbZ1TG3ZSsTOoRxAjI2szhG",
+  "phoneNo": "1-498-882-1145 x360",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:00.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:00.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466595c7618b099cd9469"
+  },
+  "name": "Florence Pfeffer",
+  "email": "Eloisa43@hotmail.com",
+  "password": "$2a$10$3GZWAaa09wHXBBO8yNwn3O3p9tOp4IbkdrJ0xRMQd8qiWkeDIS3nu",
+  "phoneNo": "1-277-689-3240 x79261",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:01.013Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:01.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466595c7618b099cd946b"
+  },
+  "name": "Roderick Anderson DVM",
+  "email": "Jailyn.Stamm29@gmail.com",
+  "password": "$2a$10$zUUmuwfYB1YIch5oYWQnCulsHp8f.qjaqhL/qNFs/dKxZmYvihvLS",
+  "phoneNo": "711.464.3797 x9129",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:01.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:01.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466595c7618b099cd946d"
+  },
+  "name": "Jeremy Mohr",
+  "email": "Cassandra.Windler51@gmail.com",
+  "password": "$2a$10$B8OAJLaKepMgbZVKuTwMG.uM.kAv1ysQbGXIQnAfI.8dOS5EqAwES",
+  "phoneNo": "1-815-496-3299 x4012",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:01.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:01.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673466595c7618b099cd946f"
+  },
+  "name": "Jonathan Casper",
+  "email": "Citlalli_Franey67@gmail.com",
+  "password": "$2a$10$XvqXZIkqsAdwefnMSv12RuF6s8vePgdnnx6ofd5jCy5Cdj7lMsuhC",
+  "phoneNo": "1-610-660-7909 x40465",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:01.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:01.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734665a5c7618b099cd9471"
+  },
+  "name": "Andre Hills",
+  "email": "Mittie_Mayer62@gmail.com",
+  "password": "$2a$10$hRp.BT9HlFuG7WpsBQgOHeF6lSPN0UmpJEcC82WpETUxXht.p5P/u",
+  "phoneNo": "(442) 306-1422 x25778",
+  "role": [
+    "user"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:42:02.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:42:02.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67346715e12fd09add97ef10"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$JRc/JjMmRKrKm0PENJIxoOQ784NgWi.ihGn1kFToe1kFaXTJuNBPS",
+  "phoneNo": "111222333",
+  "role": [
+    "admin"
+  ],
+  "createdAt": {
+    "$date": "2024-11-13T08:45:09.818Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T08:45:09.818Z"
+  },
+  "__v": 0
+}]
